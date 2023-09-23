@@ -1,6 +1,8 @@
 # Project 0
 Files for the zeroth project for WC3.
+
 *Instructions are incomplete*
+
 Instructions:
 1. Fork this repository.
 2. Open up a terminal and clone your copy of your repository with git.
